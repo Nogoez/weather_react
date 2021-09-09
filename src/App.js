@@ -3,7 +3,7 @@ import { months, days } from './utils';
 import './App.css';
 
 const api = {
-  key: '84bf820deb081b3ea8d05f73df5cd87c',
+  key: 'SECRET_KEY_GOES_HERE',
   base: "http://api.openweathermap.org/data/2.5/"
 }
 
